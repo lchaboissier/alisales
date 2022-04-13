@@ -11,7 +11,7 @@
         <div class="col-12">
             <div class="card">
                 <div class="card-body">
-                    <p class="mb-0">Vous êtes connecté !</p>
+                    <p class="mb-0">Vous êtes connecté ! Bienvenue sur la page d'accueil d'Alisales !</p>
                 </div>
             </div>
         </div>
